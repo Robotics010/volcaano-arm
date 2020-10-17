@@ -1,3 +1,3 @@
 # volcaano-arm
 
-[system block diagram](docs/system_bd.md)
+[system block diagram](docs/system.md)
