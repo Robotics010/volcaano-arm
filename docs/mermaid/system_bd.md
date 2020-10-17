@@ -169,21 +169,6 @@ end
 
 ```
 
-Supported requests:
-* **GetMotorState (MotorNumber)**
-    * Position (rad)
-    * Velocity (rad/s)
-    * Acceleration (rad^2/s)
-* **SetMotorSetpoint (MotorNumber, PositionSetpoint)**
-* **GetMotorPID**
-* **SetMotorPID**
-* SendNewTrajectory
-* GetTrajectoryState
-* ExecuteTrajectory
-* AbortTrajectory
-* SetLogLevel
-* **GetLogMsgs**
-
 #### Control Loop (100 Hz)
 
 ```mermaid
