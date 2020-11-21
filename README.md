@@ -1,5 +1,7 @@
 # volcaano-arm
 
+The project is forked from [MOVEO by BCN3D](https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning/)
+
 ## Documentation
 
 [system block diagram](docs/system.md)
