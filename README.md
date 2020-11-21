@@ -2,6 +2,8 @@
 
 The project is forked from [MOVEO by BCN3D](https://www.bcn3d.com/bcn3d-moveo-the-future-of-learning/).
 
+![robo-in-progress](docs/img/robo-in-progress.jpg "robo-in-progress")
+
 ## Documentation
 
 [system block diagram](docs/system.md)
